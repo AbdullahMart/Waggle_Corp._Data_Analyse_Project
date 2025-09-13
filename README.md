@@ -85,6 +85,9 @@ The results help the **CEO decide** whether **Lapcat** should be launched to the
 ### 📌 Dashboard Overview
 ![Menu Page](./images/menu.png)
 
+### 📌 Verschil Analyse
+![Verschil Analyse](./images/verschil%20analyse.png)
+
 ### 📌 Management Page
 ![Management Page](./images/management.png)
 
