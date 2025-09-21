@@ -1,18 +1,18 @@
 
-# 📊 Waggle Corp. – Lapcat vs Lapdog Power BI Analysis Project
+#  Waggle Corp. – Lapcat vs Lapdog Power BI Analysis Project
 
-## 🚀 Project Overview
+##  Project Overview
 This project was developed for **Waggle Corp.**, a startup that creates smart devices for pets.  
 The goal was to compare **two products**:  
-- **Lapdog** 🐶 → A fitness collar for dogs, already successful in the market.  
-- **Lapcat** 🐱 → A prototype collar for cats, currently being tested.  
+- **Lapdog**  → A fitness collar for dogs, already successful in the market.  
+- **Lapcat**  → A prototype collar for cats, currently being tested.  
 
 Our task was to build an **interactive Power BI dashboard** to analyze and compare product performance, user satisfaction, and demographic data.  
 The results help the **CEO decide** whether **Lapcat** should be launched to the market.
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 - **Answer CEO’s key questions:**
   - Do cats with Lapcat walk more steps daily (similar to dogs with Lapdog)?
   - Are Lapcat owners as satisfied as Lapdog owners?
@@ -27,7 +27,7 @@ The results help the **CEO decide** whether **Lapcat** should be launched to the
 
 ---
 
-## 🔧 Methodology & Tools
+##  Methodology & Tools
 - **Framework:** Agile–Scrum  
 - **Project Management:** Trello, Daily Stand-ups, Sprint reviews  
 - **Technology:** Microsoft Power BI  
@@ -35,9 +35,9 @@ The results help the **CEO decide** whether **Lapcat** should be launched to the
 
 ---
 
-## 📑 Dashboard Structure
+##  Dashboard Structure
 
-### 1️⃣ Cat vs Dog Analysis (Management & Verschil Analyse)
+### 1️ Cat vs Dog Analysis (Management & Verschil Analyse)
 - Daily steps comparison (cats vs dogs)  
 - Recommendation & satisfaction rates  
 - Ratio of cats vs dogs in the dataset  
@@ -59,52 +59,52 @@ The results help the **CEO decide** whether **Lapcat** should be launched to the
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 - **Navigation buttons** enable smooth transitions between pages.  
 - **Slicers** allow users to filter data interactively.  
 - **Company branding** ensures consistency with Waggle’s visual identity.  
 
 ---
 
-## 🐾 Key Findings
+##  Key Findings
 - Lapcat increased cat activity (steps per day), but results varied by demographics.  
 - Lapdog owners reported slightly higher satisfaction rates compared to Lapcat owners.  
 - Families with both cats and dogs showed distinct spending patterns and higher Waggle adoption.  
 
 ---
 
-## 🛠️ Challenges & Solutions
+##  Challenges & Solutions
 - **Data Quality Issues** → Applied cleaning and transformation in Power BI.  
 - **Visualization Consistency** → Used Waggle’s official color palette and logos.  
 - **Navigation Complexity** → Implemented custom bookmarks and slicers.  
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
-### 📌 Dashboard Overview
+###  Dashboard Overview
 ![Menu Page](./images/menu.png)
 
-### 📌 Verschil Analyse
+###  Verschil Analyse
 ![Verschil Analyse](./images/verschil%20analyse.png)
 
-### 📌 Management Page
+###  Management Page
 ![Management Page](./images/management.png)
 
-### 📌 Familie Analyse
+###  Familie Analyse
 ![Familie Analyse](./images/familie%20analyse.png)
 
-### 📌 Familie Details
+###  Familie Details
 ![Familie Details](./images/familie%20details.png)
 
-### 📌 Data Model
+###  Data Model
 ![Model View](./images/model%20view.png)
 
 ---
 
-## 👥 Team
+##  Team
 Developed by **We’RHERE IT Academy Team-1 (Abdullah Mart,A.Özcan Kurşun, Mehmet Gezer, Seneme Mergenci, Sefa Öztürk, Zehra Okay, Sueda Ekiz )** – Waggle Data Analysis Project (23.07.2025).  
 
 ---
 
-👉 This project demonstrates how **data-driven insights** can support strategic decisions in product development and marketing.
+ This project demonstrates how **data-driven insights** can support strategic decisions in product development and marketing.
