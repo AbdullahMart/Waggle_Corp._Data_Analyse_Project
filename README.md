@@ -106,5 +106,9 @@ The results help the **CEO decide** whether **Lapcat** should be launched to the
 Developed by **We’RHERE IT Academy Team-1 (Abdullah Mart,A.Özcan Kurşun, Mehmet Gezer, Seneme Mergenci, Sefa Öztürk, Zehra Okay, Sueda Ekiz )** – Waggle Data Analysis Project (23.07.2025).  
 
 ---
+---
 
+##  PROJECT LINK
+https://app.powerbi.com/view?r=eyJrIjoiZTZlOGY0MjMtYWFiMy00ZTk0LWE2MGEtMTM3N2Y0NzIxNTNhIiwidCI6IjNlMTE2YjM1LWRkMjgtNDY2ZS1hZjdhLWFlZjZkZDMwYzY0MCIsImMiOjl9
+---
  This project demonstrates how **data-driven insights** can support strategic decisions in product development and marketing.
